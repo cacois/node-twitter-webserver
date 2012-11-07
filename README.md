@@ -7,3 +7,5 @@ This project features:
 * An example of using the Node HTTP module to create a simple web server
 * An Illustration of basic techniques for HTTP request/response handling
 * Displaying Twitter feeds using a JavaScript-based widget
+
+[![Codehenge](http://codehenge.net/blog/wp-content/uploads/2012/09/xcodehenge-header.png.pagespeed.ic.M0gRSolIa5.png)](http://www.codehenge.net)
